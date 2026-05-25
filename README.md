@@ -20,7 +20,7 @@ The system contains 4 relational tables:
 | Table | Description |
 |---|---|
 | roles | Defines user permission levels — Admin, Technician, End User |
-| departments | Company departments — IT, HR, Operations, Corporate Support |
+| departments | Company departments — IT, HR, Operations, POS Support |
 | users | System users linked to roles and departments |
 | tickets | Help desk tickets with status, priority, and assignments |
 
